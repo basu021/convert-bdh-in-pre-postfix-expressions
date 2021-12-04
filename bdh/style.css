@@ -1,0 +1,16 @@
+.st {
+    text-align: center;
+    font-size: 2em;
+    color: rgb(115, 255, 0);
+}
+
+.home {
+   color: rgb(122, 147, 225);
+   background-color: aqua;
+}
+a {
+    text-decoration: none;
+}
+.infix{
+    background-color: rgb(185, 178, 211);
+}
